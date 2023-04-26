@@ -4,7 +4,7 @@
 
 using namespace std;
 
-#define MAX 50
+#define MAX 55
 #define VAL_MIN 0
 #define	VAL_MAX	10
 
